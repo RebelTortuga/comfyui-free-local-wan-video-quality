@@ -85,6 +85,16 @@ The workflow is derived from the actual Clean Slate JSON uploaded by the author.
 
 Run `python scripts/validate_workflow.py` to check graph references. Structural checks passed during packaging. No GPU inference, clean-machine installation, visual output quality, or complete dependency-version compatibility was tested here. Exported core node version metadata is not a certified minimum ComfyUI version.
 
+## Frequently asked questions
+
+**Do I need a video to begin?** No. This is an image-to-video workflow: load a still reference image and describe the intended movement.
+
+**Why is rendering slow or out of memory?** Video generation is resource-intensive. Reduce frame count or resolution and close other GPU applications; no specific minimum GPU configuration is guaranteed.
+
+**Why did the subject drift or the crop change?** Inspect **PREPARED REFERENCE** for cropping, and try a shorter sequence or simpler motion instructions.
+
+**Where are the model files?** Models are not packaged in the ZIP. Follow the model table and `DEPENDENCIES.md` for paths and extensions.
+
 ## 🔗 Related Free RebelTortuga Projects
 
 Explore other free tools and workflows:
