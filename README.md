@@ -85,6 +85,17 @@ The workflow is derived from the actual Clean Slate JSON uploaded by the author.
 
 Run `python scripts/validate_workflow.py` to check graph references. Structural checks passed during packaging. No GPU inference, clean-machine installation, visual output quality, or complete dependency-version compatibility was tested here. Exported core node version metadata is not a certified minimum ComfyUI version.
 
+## 🔗 Related Free RebelTortuga Projects
+
+Explore other free tools and workflows:
+
+- [comfyui-clean-slate](https://github.com/RebelTortuga/comfyui-clean-slate)
+- [comfyui-free-local-qwen-image-edit](https://github.com/RebelTortuga/comfyui-free-local-qwen-image-edit)
+- [comfyui-free-local-sdxl-inpainting](https://github.com/RebelTortuga/comfyui-free-local-sdxl-inpainting)
+- [comfyui-free-local-wan-video-high-resolution](https://github.com/RebelTortuga/comfyui-free-local-wan-video-high-resolution)
+
+[Browse all RebelTortuga projects](https://github.com/RebelTortuga)
+
 ## 🐢 Support RebelTortuga
 
 These workflows are free to download and use. Donations are always optional and do not unlock features.
