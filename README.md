@@ -135,3 +135,16 @@ Use this repository's GitHub Issues page for bug reports, improvements, and feat
 ## Clean template defaults
 
 Images and active positive/negative prompts start blank. Prompt History auto-save and recall remain enabled; the history JSON files themselves are **not** bundled. The preview PNG is included at `assets/workflow-preview.png`.
+
+---
+
+<!-- BEGIN REBELTORTUGA SAFETY -->
+## Privacy & Software Safety
+
+Read the [project safety guidance](SAFETY.md) before use. It covers local workflows, dependencies, saved files, and security warnings. See [SECURITY.md](SECURITY.md) for vulnerability reporting and the [license](LICENSE) for terms.
+
+[Privacy & Software Safety](https://rebeltortuga.github.io/privacy-software-safety.html) · [Project Licenses](https://rebeltortuga.github.io/project-licenses.html)
+
+Do not upload passwords, access tokens, browser profiles, private backups, or unredacted diagnostic reports to public issues.
+<!-- END REBELTORTUGA SAFETY -->
+
