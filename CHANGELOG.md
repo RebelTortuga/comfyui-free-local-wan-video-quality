@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.0.1 — Trust and documentation refresh
+
+- Add `SAFETY.md` and `SECURITY.md` to the downloadable package.
+- Update the README to match the current documented setup and limitations.
+- Retain dependency, source, validator, preview, and MIT license records in the package.
+- No workflow graph or validator logic changed from v1.0.0.
+
+Validation: structural graph checks passed. GPU inference, clean-machine installation, visual output quality, and complete dependency-version compatibility were not tested.
+
 ## Initial repository package
 
 - Published a cleaned workflow derived from the supplied source; see SOURCE.json for source checksum and recorded adjustments.
